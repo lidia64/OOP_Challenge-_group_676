@@ -5,7 +5,7 @@ Welcome to the **Pet Simulator**! This program allows you to interact with a vir
 
 ---
 
-## 🎮 Features
+##  Features
 
 - **Create Your Pet**: Choose a name and type for your pet (e.g., Fish 🐟, Dog 🐶, Cat 🐱).
 - **Interactive Actions**:
