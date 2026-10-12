@@ -1,11 +1,11 @@
 # OOP_Challenge-_group_676
-Pet Simulator
+.Pet Simulator
 
 Welcome to the **Pet Simulator**! This program allows you to interact with a virtual pet, perform various actions, and track its status. The simulator is designed to be fun and visually appealing, with colorful output and emojis to enhance the experience.
 
 ---
 
-##  Features
+# Features
 
 - **Create Your Pet**: Choose a name and type for your pet (e.g., Fish 🐟, Dog 🐶, Cat 🐱).
 - **Interactive Actions**:
